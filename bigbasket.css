@@ -1,0 +1,257 @@
+.bigbasketcontainer{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    border top: 10px solid green;
+
+    
+}
+.bigbasketcon1{
+    display: flex;
+    justify-content: space-evenly;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+
+}
+.con1{
+    display: flex;
+    
+    justify-content: space-evenly;
+    position: fixed;
+    gap: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+input[type=text] {
+    width: 700px;
+    box-sizing: border-box;
+    border: 2px solid #15b838;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: rgb(242, 248, 243);
+    background-image: url("searchicon.png");
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    padding: 12px 20px 12px 40px;
+  }
+  .location{
+    background-color:  #ccc; height: 40px; width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px; 
+    border-radius: 20px;
+    
+  }
+  .login{
+    color: aliceblue;
+    background-color: black;
+    height: 40px;
+    width: 100px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .bas{
+    margin-left: 0%;
+  }
+  .con33{
+    
+    .custom-select {
+        position: relative;
+        font-family: Arial;
+      }
+      
+      .custom-select select {
+        display: none; /*hide original SELECT element:*/
+      }
+      
+      .select-selected {
+        background-color: rgb(58, 184, 33);
+      }
+      
+      /*style the arrow inside the select element:*/
+      .select-selected:after {
+        position: absolute;
+        content: "";
+        top: 14px;
+        right: 10px;
+        width: 0;
+        height: 0;
+        border: 6px solid transparent;
+        border-color: #fff transparent transparent transparent;
+      }
+      
+      /*point the arrow upwards when the select box is open (active):*/
+      .select-selected.select-arrow-active:after {
+        border-color: transparent transparent #fff transparent;
+        top: 7px;
+      }
+      
+      /*style the items (options), including the selected item:*/
+      .select-items div,.select-selected {
+        color: #ffffff;
+        padding: 8px 16px;
+        border: 1px solid transparent;
+        border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+        cursor: pointer;
+        user-select: none;
+      }
+      
+      /*style items (options):*/
+      .select-items {
+        position: absolute;
+        background-color: rgb(32, 216, 19);
+        top: 100%;
+        left: 0;
+        right: 0;
+        z-index: 99;
+      }
+      
+      /*hide the items when the select box is closed:*/
+      .select-hide {
+        display: none;
+      }
+      
+      .select-items div:hover, .same-as-selected {
+        background-color: rgba(0, 0, 0, 0.1);
+      }
+              
+              
+    }
+    
+    .cons3{
+        display: flex;
+        
+        gap: 100px;
+    }
+    .cons22{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    .bigbasketcon1{
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+       
+    }
+    .bigbasketcon2{
+        height: 400px;
+        width: 100%;
+        mar
+        background-image: url("bigbasket1.jpg");
+        background-image: url(big2.jpg);
+        background-size: cover;
+        display: flex;
+        justify-content: center;
+        align-items: end;
+        
+        
+
+    }
+    .a30{
+        height: 50px;
+        width: 100px;
+        
+        background-color: #fff;
+        border-radius: 5px;
+        text-align: center;
+    }
+    .a31{
+        height: 50px;
+        width: 100px;
+        background-color: #eff2f0;
+        border-radius: 5px;
+        text-align: center;
+    }
+    .a32{
+        height: 50px;
+        width: 100px;
+        background-color: #e4e8e5;
+         border-radius: 5px;
+         text-align: center;
+    }
+    .bigbass1{
+        display: flex;
+    }
+    .box{
+        display: flex;
+        justify-content: space-evenly;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .smart1{
+        border: 1px solid black;
+        width: 200px;
+        justify-content: center;
+        padding: 20px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .smart2{
+        border: 1px solid black;
+        width: 200px;
+        justify-content: center;
+        padding: 20px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .smart3{
+        border: 1px solid black;
+        width: 200px;
+        justify-content: center;
+        padding: 20px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .smart4{
+        border: 1px solid black;
+        width: 200px;
+        justify-content: center;
+        padding: 20px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .smart{
+        display: flex;
+        justify-content: space-evenly;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .smart5{
+        display: flex;
+        justify-content: space-evenly;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .smart6{
+        display: flex;
+        justify-content: space-evenly;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .smart7{
+        display: flex;
+        justify-content: space-evenly;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .smart8{
+        display: flex;
+        justify-content: space-evenly;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .smart9{
+        display: flex;
+        justify-content: space-evenly;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .smart10{
+        display: flex;
+        justify-content: space-evenly;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    }
+    .smart11{
+        width: auto;
+        display: flex;
+        position: fixed;
+        overflow-clip-margin: content-box;
+        overflow: clip;
+        margin: 100px;
+        gap: 20px;
+        scrollbar-width: 10px
+        ;
+
+    }
+
+    
+
+    
